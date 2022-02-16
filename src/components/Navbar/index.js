@@ -5,7 +5,7 @@ import NavLeft from "./components/NavLeft";
 
 const Navbar = () => {
     return (
-        <div className={'fixed w-full uppercase bg-white dark:bg-darkBlue dark:text-white text-black p-4 text-white transition flex justify-between'}>
+        <div className={'fixed w-full uppercase bg-white dark:bg-darkBlue dark:text-white text-black p-4 text-black transition flex justify-between'}>
             <BackToHome />
             <NavLeft />
         </div>
