@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NavIcon = () => {
+const BackToHome = () => {
     return (
         <div>
-
+            David
         </div>
     );
 };
 
-export default NavIcon;
+export default BackToHome;

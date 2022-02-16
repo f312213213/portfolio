@@ -1,11 +1,11 @@
 import React from 'react';
 
-const DarkMode = () => {
+const NavText = ({ text }) => {
     return (
         <div>
-
+            {text}
         </div>
     );
 };
 
-export default DarkMode;
+export default NavText;
